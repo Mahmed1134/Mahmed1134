@@ -7,7 +7,9 @@
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 [![Facebook](src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OuZs26qKMJuAAS8AANs73wUozNJEqjY0A_89nh1Jvw&s=10")]<br>
-
+<a href="https://www.facebook.com" target="_blank">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OuZs26qKMJuAAS8AANs73wUozNJEqjY0A_89nh1Jvw&s=10" alt="Facebook" width="50%" border-radius="900px">
+</a>
 </details>
 
 
