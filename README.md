@@ -41,10 +41,10 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "HTML", "CSS", "Python", "Javascript", "PHP", "SQL" },
-    "Database" : { "Sql", "Sqlite", "MySQL" },
+    "Database" : { "Sql", "MySQL" },
     "Editors" : { "Vscode", "Xcode"},
-    "Platforms" : { "Mac", "Linux", "Windows" },
-    "OtherTools" : { "Git", "Photoshop", "Lightroom" }
+    "Platforms" : { "Mac", "Linux", "Windows" ,"Kali Linux"},
+    "OtherTools" : { "Git", "Photoshop", "photopia" }
   };
 }
 ```
