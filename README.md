@@ -6,12 +6,12 @@
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-[![Facebook](src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OuZs26qKMJuAAS8AANs73wUozNJEqjY0A_89nh1Jvw&s=10")](https://www.facebook.com/share/1DZW9PgYvm/) <be>
+[![Facebook](src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0OuZs26qKMJuAAS8AANs73wUozNJEqjY0A_89nh1Jvw&s=10")]<br>
 
 </details>
 
 
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![telegram badge](t.me/Mohmed_Gamel)](https://t.me/spxd007) <br>
 </div>
 
 <hr></hr>
