@@ -6,7 +6,7 @@
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+[![Facebook](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://www.facebook.com/share/1DZW9PgYvm/) <be>
 
 </details>
 
